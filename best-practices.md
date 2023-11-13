@@ -4,11 +4,16 @@ Source: ChatGPT (Open AI)
 
 ## Product Communication Types
 
-| Product Communication Types | Documentation | Announcements | Release Notes | E-Learning/Education (Academy) | Customer Support/Service | Marketing Material | Community/Forums | Feedback/Surveys |
-| --------------------------- | ------------- | ------------- | ------------- | ----------------------------- | ------------------------ | ------------------ | ---------------- | ----------------- |
-| Engagement Features (Messaging Elements) | Authoritative, Informative, Precise | Confident, Forward-Looking, Informative | Transparent, Informative, Engaging | Supportive, Encouraging, Empowering | Empathetic, Patient, Solution-Oriented | Persuasive, Aspirational, Engaging | Supportive, Collaborative, Informative | Receptive, Open-Minded, Appreciative |
-| Focus & Purpose             | Provides instructional information about the product's features and guidelines | Informs about new features, updates, or changes in the product | Details changes, improvements, and bug fixes in product updates | Educates users through tutorials, courses, or resources on product usage | Assists users with queries, issues, or guidance related to the product | Promotes the product, highlighting benefits and persuading engagement | Fosters interaction, discussions, shared experiences among users | Gathers opinions, suggestions, and feedback for product improvement |
-| User Expectations           | Expect clear, comprehensive, and accurate guidance | Anticipate clear and timely information about what's changing | Look for a clear breakdown of changes and how they affect usage | Seek step-by-step, easy-to-understand guidance to improve skills | Expect responsive and helpful assistance in problem resolution | Anticipate compelling information about the product's value | Seek advice, shared experiences, and solutions in a collaborative environment | Expects a platform to express opinions and see improvements based on feedback |
+|                                        | Engagement Features (Messaging Elements) | Focus & Purpose | User Expectations |
+| -------------------------------------  | ---------------------------------------- | --------------- | ----------------- |
+| **Documentation**                      | Authoritative, Informative, Precise       | Provides instructional information about the product's features and guidelines | Expect clear, comprehensive, and accurate guidance |
+| **Announcements**                      | Confident, Forward-Looking, Informative   | Informs about new features, updates, or changes in the product | Anticipate clear and timely information about what's changing |
+| **Release Notes**                      | Transparent, Informative, Engaging        | Details changes, improvements, and bug fixes in product updates | Look for a clear breakdown of changes and how they affect usage |
+| **E-Learning/Education (Academy)**     | Supportive, Encouraging, Empowering      | Educates users through tutorials, courses, or resources on product usage | Seek step-by-step, easy-to-understand guidance to improve skills |
+| **Customer Support/Service**            | Empathetic, Patient, Solution-Oriented   | Assists users with queries, issues, or guidance related to the product | Expect responsive and helpful assistance in problem resolution |
+| **Marketing Material**                 | Persuasive, Aspirational, Engaging       | Promotes the product, highlighting benefits and persuading engagement | Anticipate compelling information about the product's value |
+| **Community/Forums**                   | Supportive, Collaborative, Informative   | Fosters interaction, discussions, shared experiences among users | Seek advice, shared experiences, and solutions in a collaborative environment |
+| **Feedback/Surveys**                   | Receptive, Open-Minded, Appreciative     | Gathers opinions, suggestions, and feedback for product improvement | Expects a platform to express opinions and see improvements based on feedback |
 
 ### Emotional Engagement Index
 
