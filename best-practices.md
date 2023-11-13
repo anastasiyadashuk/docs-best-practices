@@ -1,5 +1,7 @@
 # Best Practices for Documentation
 
+Source: ChatGPT (Open AI)
+
 ## Product Communication Types
 
 | Product Communication Types | Documentation | Announcements | Release Notes | E-Learning/Education (Academy) | Customer Support/Service | Marketing Material | Community/Forums | Feedback/Surveys |
