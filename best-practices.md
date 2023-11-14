@@ -101,3 +101,17 @@ Average emotional engagement index for each product communucation type:
 - **Empathetic and Solution-Oriented:** Frame the documentation with a focus on solving user problems. Acknowledge the user's challenges and offer solutions.
 
 - **Provide Context and Why Statements:** Explain the context and rationale behind instructions. Users should understand why certain actions are necessary.
+
+# User Journeys for Developer Docs
+
+Here are supporting arguments for why the concept of user journeys might not directly apply to developer documentation:
+
+- Objective Differences: User documentation primarily focuses on guiding end-users through product functionalities to achieve specific tasks or goals. Developer documentation, on the other hand, often revolves around APIs, SDKs, and technical aspects, aiming to assist developers in integrating or building on the product's infrastructure. These objectives might not align with a linear user journey but rather cater to varied technical needs.
+
+- Technical Proficiency: Developer documentation typically targets an audience with a high level of technical expertise. Their journey involves accessing specific technical information, troubleshooting, and leveraging advanced functionalities. Their interaction with the documentation might not follow a predefined, linear path but could involve cross-referencing multiple sections based on their immediate needs.
+
+- Varied Paths to Solutions: Unlike end-users who might follow a sequential process in achieving specific tasks, developers often have multiple paths to reach a solution. Their workflow might involve experimenting, testing, and adapting their approach, making their journey less linear and more exploratory.
+
+- Focus on Reference Material: Developer documentation commonly serves as a reference material or a technical guide rather than a guided journey. It's structured to provide in-depth technical information, code samples, API references, and troubleshooting tips, catering to a different usage pattern compared to the step-by-step user journey.
+
+However, while the concept of user journeys might not directly translate to developer documentation, considering the workflow or flow of actions developers undertake to achieve specific technical outcomes can still be valuable. Framing the content in a structured manner, anticipating the steps or phases developers might go through, and providing comprehensive, navigable documentation could enhance the developer experience without strictly adhering to the traditional user journey model.
