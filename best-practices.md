@@ -115,3 +115,41 @@ Here are supporting arguments for why the concept of user journeys might not dir
 - Focus on Reference Material: Developer documentation commonly serves as a reference material or a technical guide rather than a guided journey. It's structured to provide in-depth technical information, code samples, API references, and troubleshooting tips, catering to a different usage pattern compared to the step-by-step user journey.
 
 However, while the concept of user journeys might not directly translate to developer documentation, considering the workflow or flow of actions developers undertake to achieve specific technical outcomes can still be valuable. Framing the content in a structured manner, anticipating the steps or phases developers might go through, and providing comprehensive, navigable documentation could enhance the developer experience without strictly adhering to the traditional user journey model.
+
+Certainly! Here's a prompt you can use to guide a technical writer in checking documentation against the Google Developers Style Guide:
+
+---
+
+## Documentation Review Prompt
+
+#### Objective:
+The objective of this review is to ensure that the documentation aligns with the guidelines outlined in the Google Developers Style Guide. The focus is on maintaining consistency, clarity, and accessibility throughout the documentation.
+
+#### Instructions:
+1. **Readability and Clarity:**
+   - Check for clear, concise, and easily understandable language. Avoid jargon or overly technical terms unless necessary.
+
+2. **Structure and Formatting:**
+   - Ensure consistent formatting, headings, and subheadings across all sections.
+   - Confirm the use of bullet points, numbered lists, and code blocks adheres to the style guide.
+
+3. **Grammar and Language:**
+   - Review grammar, punctuation, and sentence structure for correctness.
+   - Verify that active voice is preferred over passive voice for better readability.
+
+4. **Code and Examples:**
+   - Confirm that code snippets are formatted properly and follow the code style recommended in the guide.
+   - Validate that examples provided are relevant, concise, and easy to follow.
+
+5. **Accessibility and Inclusivity:**
+   - Check that the documentation is accessible and accommodates diverse audiences.
+   - Ensure the content is inclusive and does not contain biased language.
+
+6. **References and Citations:**
+   - Ensure all external references, citations, or attributions are appropriately documented.
+
+7. **Overall Consistency:**
+   - Evaluate consistency in terminology, capitalization, and usage of technical terms throughout the documentation.
+
+#### Additional Notes:
+Please provide feedback on any areas where the documentation may not align with the Google Developers Style Guide. Highlight specific sections or examples that require modification or improvement. Aim to maintain consistency, readability, and adherence to the style guide in all aspects of the documentation.
